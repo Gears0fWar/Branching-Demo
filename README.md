@@ -9,4 +9,5 @@ After committing, use ```git branch``` to view branches
 * the current branch is indicated using an \* asterisk
 
 To create a new branche use the ```git branch [name of the branch]```
+
 To switch between branches use the ```git checkout [name of the branch]``` 
